@@ -495,6 +495,7 @@ descriptions = {
   "cvsutils" => "CVS utilities for use in working directories",
   "cvsync" => "Portable CVS repository synchronization utility",
   "cweb" => "Literate documentation system for C, C++, and Java",
+  "cxxtest" => "Unit testing framework for C++",
   "cyassl" => "Embedded SSL Library written in C",
   "czmq" => "High-level C binding for ØMQ",
   "d-bus" => "Message bus system, providing inter-application communication",
